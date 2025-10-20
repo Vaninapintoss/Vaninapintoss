@@ -28,14 +28,3 @@ This space showcases my projects, code samples, and explorations within the SAP 
     </a>
 </div>
 
-</div>
-
-<br>
-<br>
-
-
-<div class="footer" align="center">
-    <a href="mailto:vaninapintos.dev@gmail.com" target="_blank">
-        <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
