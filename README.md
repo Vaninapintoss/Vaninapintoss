@@ -1,6 +1,6 @@
 <h1> 👩‍💻 Vanina Pintos </h1>
 
-<p> 👋 Hi, I’m [Your Name], an ABAP developer with experience in SAP S/4HANA, ABAP RAP, and SAP BTP environments.
+<p> 👋 Hi, I’m Vanina, an ABAP developer with experience in SAP S/4HANA, ABAP RAP, and SAP BTP environments.
 I specialize in developing enterprise applications, optimizing business processes, and building scalable solutions aligned with SAP best practices.
 
 My experience includes:
