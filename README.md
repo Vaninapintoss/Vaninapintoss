@@ -1,8 +1,22 @@
 <h1> 👩‍💻 Vanina Pintos </h1>
 
-<p align="center">
-Hello! I'm Vanina and I'm studying a university degree in programming at the National Technological University in Argentina. <br><br>
-I invite you to take a look at my profile.
+<p> 👋 Hi, I’m [Your Name], an ABAP developer with experience in SAP S/4HANA, ABAP RAP, and SAP BTP environments.
+I specialize in developing enterprise applications, optimizing business processes, and building scalable solutions aligned with SAP best practices.
+
+My experience includes:
+
+Development with classic and modern ABAP (7.40+)
+
+Implementation of RAP (RESTful Application Programming Model)
+
+Building CDS Views, OData Services, and Behavior Definitions
+
+Integration using BAPIs, IDocs, and RFCs
+
+Extensions and customizations in SAP S/4HANA Cloud
+
+This space showcases my projects, code samples, and explorations within the SAP ecosystem and enterprise software development.
+</p>
 
 <br>
 
